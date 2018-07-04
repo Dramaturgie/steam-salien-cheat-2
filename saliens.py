@@ -4,8 +4,8 @@ from time import sleep
 import datetime
 
 # Get from: https://steamcommunity.com/saliengame/gettoken
-TOKEN = "3b2ccc7a4ee8b3eabf4dca42917d2112"
-STEAMID = "76561198346393858"
+TOKEN = "58ed8d4b7fc1c724f0d9c4eaefad53f0"
+STEAMID = "76561198150899248"
 
 
 s = requests.session()
